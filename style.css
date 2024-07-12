@@ -1,0 +1,74 @@
+body{
+    background-image: url(pngtree-pink-heart-valentine-background-picture-image_1307863.jpg);
+}
+
+
+
+
+
+h1{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: black(26, 10, 207);
+}
+ 
+
+
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color:  black;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    color: black;;
+
+}
+
+#print {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    color: black;;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    color: black;;
+
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    padding: 10px;
+}
+.max h1{
+    font-size: 150px;
+}
+.max h2{
+    font-size: 150px;
+
+}
+
+.max h3{
+    font-size: 150px;
+}
+
+.max h4{
+    font-size: 150px;
+}
+
